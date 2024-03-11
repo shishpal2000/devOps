@@ -1,2 +1,4 @@
 print("jai maa kali")
-print("joo")
+print("jai")
+print("jai maa kali")
+print("jai")
